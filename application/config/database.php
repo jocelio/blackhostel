@@ -76,10 +76,10 @@ $query_builder = TRUE;
 
 $db['heroku'] = array(
     'dsn'	=> '',
-    'hostname' => 'us-cdbr-iron-east-03.cleardb.net',
-    'username' => 'b7434ac25d4adf',
-    'password' => 'dae1af13',
-    'database' => 'heroku_a61770c1282a72c',
+    'hostname' => '',
+    'username' => '',
+    'password' => '',
+    'database' => '',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
     'pconnect' => FALSE,
