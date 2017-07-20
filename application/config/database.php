@@ -97,7 +97,7 @@ $db['remote'] = array(
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.17.0.3',
 	'username' => 'root',
 	'password' => '123',
 	'database' => 'blackhostel',
