@@ -61,7 +61,7 @@
 			                        	<label class="sr-only" for="form-password">Senha</label>
 			                        	<input type="password" name="password" placeholder="Senha..." class="form-password form-control" id="form-password">
 			                        </div>
-			                        <button type="submit" class="btn">Entrar!</button>
+			                        <button type="submit" class="btn">Entrar</button>
 			                    </form>
 		                    </div>
                         </div>
